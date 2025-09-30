@@ -1,1 +1,1 @@
-<h1> tree forthe organization
+<h1> tree for the organization
